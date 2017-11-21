@@ -1,0 +1,10 @@
+.background{
+	height:300%;
+	width:100%;
+	background: url(images/background.jpg) no-repeat center top;
+}
+.myVideo{
+	position: relative;
+	left:450px;
+	top:220px;
+}
