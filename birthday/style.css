@@ -1,10 +1,16 @@
 .background{
+	position:absolute;
 	height:300%;
 	width:100%;
 	background: url(images/background.jpg) no-repeat center top;
 }
 .myVideo{
 	position: relative;
-	left:450px;
-	top:220px;
+	left:35%;
+	top:21%;
+}
+.main{
+	position:absolute;
+	height:100%;
+	width:100%;
 }
