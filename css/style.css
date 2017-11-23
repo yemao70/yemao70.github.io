@@ -5,11 +5,10 @@ body {
   height: 100%;
 }
 
-
 #cake {
   display: block;
   position: relative;
-  margin: -10em auto 0 auto;
+  margin: 6em auto 0 auto;
 }
 
 /* ============================================== Candle
@@ -18,7 +17,7 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: absolute;
-  top: 228px;
+  top: 488px;
   left: 50%;
   margin-left: -2.5px;
   margin-top: -8.33333333px;
