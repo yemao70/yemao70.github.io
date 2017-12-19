@@ -7,10 +7,12 @@
 }
 .myVideoBlock{
 	position: absolute;
-	left:35%;
+	left:37%;
 	top:40%;
-	height:300px; 
-	width:400px;
+	margin-left: -2.5px;
+	margin-top: -8.33333333px;
+	height:250px; 
+	width:340px;
 }
 
 .myVideo{
