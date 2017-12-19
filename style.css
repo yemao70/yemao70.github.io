@@ -8,11 +8,12 @@
 	height:300px; 
 	width:400px;
 	margin:0 auto;
-	border:1px solid #000
+	border:1px
 }
 
 .myVideo{
 	position: relative;
+	top: 20px;
 	height:100%;
 	width:100%;
 	frameborder:no;
