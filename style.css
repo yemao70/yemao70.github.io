@@ -1,6 +1,6 @@
 .background{
 	border:1px solid #F20;
-	position:relative;
+	position:absolute;
 	height:100%;
 	width:100%;
 	background: url(images/background3.jpg) no-repeat center top;
@@ -9,10 +9,10 @@
 	position: absolute;
 	left:37%;
 	top:40%;
-	margin-left: -2.5px;
-	margin-top: -8.33333333px;
 	height:250px; 
 	width:340px;
+	margin:0 auto;
+	border:1px solid #F00
 }
 
 .myVideo{
