@@ -6,9 +6,9 @@
 	background: url(images/background3.jpg) no-repeat center top;
 }
 .myVideoBlock{
-	position: relative;
+	position: absolute;
 	left:35%;
-	top:5%;
+	top:40%;
 	height:300px; 
 	width:400px;
 }
