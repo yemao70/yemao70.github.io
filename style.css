@@ -7,18 +7,17 @@
 }
 .myVideoBlock{
 	position: absolute;
-	left:37%;
-	top:40%;
 	height:250px; 
-	width:340px;
+	width:100%;
 	margin:0 auto;
 	border:1px solid #F00
 }
 
 .myVideo{
-	position: absolute;
+	position: relative;
+	left: 38%;
 	height:100%;
-	width:100%;
+	width:350px;
 	frameborder:no;
 }
 .main{
