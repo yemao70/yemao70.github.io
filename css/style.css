@@ -8,7 +8,7 @@ body {
 #cake {
   display: block;
   position: relative;
-  margin: 6em auto 0 auto;
+  margin: -20em auto 0em auto;
 }
 
 /* ============================================== Candle
@@ -17,7 +17,7 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: absolute;
-  top: 488px;
+  top: 70px;
   left: 50%;
   margin-left: -2.5px;
   margin-top: -8.33333333px;
@@ -138,7 +138,7 @@ body {
   }
 }
 .text {
-  color: #FFE4E1;
+  color: #ff4d4d;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-style: italic;
