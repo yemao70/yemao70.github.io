@@ -19,7 +19,6 @@
 	frameborder:no;
 }
 .main{
-	background:red;
 	margin: 0;
 	padding: 0;
 	height:100%;
@@ -27,9 +26,16 @@
 }
 
 .images{
-	height: 300px;
-    width: 1200px;
-    margin: 60px 60px 10px 40px;
+	height: 100%;
+    width: 30%;
+    margin: 0% auto 0 3%;
+    position: absolute;
+}
+
+.images2{
+	height: 100%;
+    width: 30%;
+    margin: 0% auto 0% 68%;
     position: absolute;
 }
 
@@ -58,61 +64,82 @@
     z-index: 1;
 }
 
+.images2 img:hover{
+    box-shadow: 15px 15px 20px rgba(50,50,50,0.4);
+    transform:rotate(0deg) scale(2.20);
+    -webkit-transform:rotate(0deg) scale(1.20);
+    z-index: 1000;
+}
+
+.images2 img{
+    padding: 10px 10px 15px;
+    background: white;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 3px rgba(50,50,50,0.4);
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -ms-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in;
+    position: absolute;
+    z-index: 1;
+}
+
 .pic1{
-    left: 20%;
+    right: 3%;
     top: 30%;
     transform:rotate(-15deg);
     -webkit-transform:rotate(-15deg);
 }
 
 .pic2{
-    left: 18%;
-    top: 65%;
+    right: 2%;
+    top: 50%;
     transform:rotate(20deg);
     -webkit-transform:rotate(20deg);
 }
 .pic3{
-    top: 100%;
-    left: 30%;
+    top: 40%;
+    right: 70%;
     transform:rotate(5deg);
     -webkit-transform:rotate(30deg);
 }
 
 .pic4{
-    top: 125%;
-    left: 18%;
+    top: 70%;
+    right: 10%;
     transform:rotate(40deg);
     -webkit-transform:rotate(40deg0deg);
 }
 
 .pic5{
 
-    top: 97%;
+    top: 70%;
     right: 10%;
     transform:rotate(-10deg);
     -webkit-transform:rotate(-10deg);
 }
 .pic6{
     left: 5%;
-    top: 0;
+    top: 10%;
     transform:rotate(10deg);
     -webkit-transform:rotate(10deg);
 }
 
 .pic7{
     right: 10%;
-    top: 0%;
+    top: 10%;
     transform:rotate(20deg);
     -webkit-transform:rotate(20deg);
 }
 .pic8{
-    bottom: -20%;
-    top: 80%;
+    left: 5%;
+    top: 60%;
     transform:rotate(5deg);
     -webkit-transform:rotate(5deg);
 }
 .pic9{
-    bottom: 10%;
+    bottom: 20%;
     right: 5%;
     transform:rotate(30deg);
     -webkit-transform:rotate(30deg);
