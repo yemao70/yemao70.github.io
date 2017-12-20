@@ -27,14 +27,14 @@
 
 .images{
 	height: 100%;
-    width: 30%;
-    margin: 0% auto 0 3%;
+    width: 23%;
+    margin: 0% auto 0 10%;
     position: absolute;
 }
 
 .images2{
 	height: 100%;
-    width: 30%;
+    width: 25%;
     margin: 0% auto 0% 68%;
     position: absolute;
 }
@@ -115,7 +115,7 @@
 .pic5{
 
     top: 70%;
-    right: 10%;
+    right: 30%;
     transform:rotate(-10deg);
     -webkit-transform:rotate(-10deg);
 }
@@ -127,7 +127,7 @@
 }
 
 .pic7{
-    right: 10%;
+    right: 40%;
     top: 10%;
     transform:rotate(20deg);
     -webkit-transform:rotate(20deg);
@@ -140,7 +140,7 @@
 }
 .pic9{
     bottom: 20%;
-    right: 5%;
+    right: 15%;
     transform:rotate(30deg);
     -webkit-transform:rotate(30deg);
 }
