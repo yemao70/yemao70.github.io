@@ -144,3 +144,16 @@
     transform:rotate(30deg);
     -webkit-transform:rotate(30deg);
 }
+.pic10{
+    bottom: 5%;
+    left: 25%;
+    transform:rotate(30deg);
+    -webkit-transform:rotate(30deg);
+}
+.pic11{
+	width: 180px;
+    top: 25%;
+    right: 15%;
+    transform:rotate(30deg);
+    -webkit-transform:rotate(30deg);
+}
